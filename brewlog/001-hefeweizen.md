@@ -27,8 +27,11 @@ Brew Day:
    * Set to 170F at 3:10PM, hit temp at 3:13PM
    * Pulled grain at 3:23PM
    * Vorlauf for 5 minutes with recirc pump
+   * Final pH: ~5.5
  * Boil
+   * Just under 12L of water at start
    * Set to 212F at 3:37PM
+   * Removed lid at 200F, 3:52PM
    * Boil began at 3:58PM
    * Boil ended at 4:59PM
  * Chill
