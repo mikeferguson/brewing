@@ -27,7 +27,7 @@ Brew Day:
    * Set to 170F at 3:10PM, hit temp at 3:13PM
    * Pulled grain at 3:23PM
    * Vorlauf for 5 minutes with recirc pump
-   * Final pH: ~5.5
+   * Final pH: ~5.5 (measured at mash temp, because I forgot to do it earlier)
  * Boil
    * Just under 12L of water at start
    * Set to 212F at 3:37PM
@@ -46,8 +46,10 @@ Fermentation:
 Notes:
 
  * Only yielded 2.25 gallons of wort in fermenter.
- * OG target was 1.049 - came up short at 1.042. In retrospect, this is almost certainly
-   due to lower efficiencies from not sparging.
+ * OG target was 1.049 - came up short at 1.042. Possible culprits:
+    * not sparging
+    * running the pump to fast, causing tunneling
+    * pH too high
  * Water supplements are estimated - my scale only has a resolution of 1 gram. Need to
    get a better one.
 
