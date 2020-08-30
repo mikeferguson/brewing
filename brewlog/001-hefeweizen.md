@@ -41,7 +41,7 @@ Brew Day:
 
 Fermentation:
 
- * TBD
+ * 2 weeks at 68F. Finished at 1.005. Bottled 21 bottles.
 
 Notes:
 
