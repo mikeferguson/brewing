@@ -4,6 +4,13 @@ Bavarian Style Hefeweizen.
 2.5 gallon batch built from a portion of an all-grain kit from Northern Brewer.
 Brewed on July 19, 2020.
 
+Key Metrics:
+
+ * OG: 1.042
+ * FG: 1.005
+ * IBUs: 14
+ * ABV: 4.7%
+
 Ingredients:
 
  * 2.75 lbs Weyermann Pale Wheat malt
@@ -42,11 +49,12 @@ Brew Day:
 Fermentation:
 
  * 2 weeks at 68F. Finished at 1.005. Bottled 21 bottles.
+ * Carbonated for 2 weeks. Bottles that got 3 or more weeks were more properly carbonated.
 
 Notes:
 
  * Only yielded 2.25 gallons of wort in fermenter.
- * OG target was 1.049 - came up short at 1.042. Possible culprits:
+ * OG target was 1.049 - came up short at 1.042 (60% brewhouse efficiency). Possible culprits:
     * not sparging
     * running the pump to fast, causing tunneling
     * pH too high
