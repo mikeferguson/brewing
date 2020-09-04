@@ -60,6 +60,7 @@ Notes:
     * pH too high
  * Water supplements are estimated - my scale only has a resolution of 1 gram. Need to
    get a better one.
+ * Batch cost: $18.73 ($11.10 malt, $1.40 hops, $4.99 yeast)
 
 Things to Try Next Time:
 

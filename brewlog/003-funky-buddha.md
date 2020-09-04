@@ -47,3 +47,4 @@ Fermentation:
 Notes:
 
  * TBD
+ * Batch cost: $22.46 ($12.48 malt, $1.99 hops, $7.99 yeast)
