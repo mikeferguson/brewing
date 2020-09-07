@@ -1,12 +1,12 @@
 # MacGyverWeizen (#2)
 
-Bavarian Style Hefeweizen - Take 2.
-2.5 gallon batch built from a portion of an all-grain kit from Northern Brewer.
-Brewed on August 30, 2020.
+Second attempt at the Bavarian Style Hefeweizen, to see if we can hit the
+numbers better. 2.5 gallon batch built from the other half of an all-grain
+kit from Northern Brewer. Brewed on August 30, 2020.
 
 Key Metrics:
 
- * OG: 1.045
+ * OG: 1.045 (Target: 1.049)
  * FG: TBD
  * IBUs: 14
  * ABV: TBD
@@ -50,7 +50,7 @@ Brew Day:
 
 Fermentation:
 
- * TBD
+ * Started fermentation at 68F, but basement was too cool and temp was falling.
 
 Notes:
 
