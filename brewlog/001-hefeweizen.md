@@ -1,7 +1,8 @@
 # MacGyverWeizen (#1)
 
 First brew on the Anvil 6.5 Gallon Foundry. Bavarian Style Hefeweizen.
-2.5 gallon batch from a portion of an all-grain kit from Northern Brewer.
+2.5 gallon batch from a portion of an all-grain kit from
+[Northern Brewer](https://www.northernbrewer.com/products/bavarian-hefe-weizen-all-grain-kit).
 Brewed on July 19, 2020.
 
 Key Metrics:
