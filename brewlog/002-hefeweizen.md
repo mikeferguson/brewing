@@ -7,9 +7,9 @@ kit from Northern Brewer. Brewed on August 30, 2020.
 Key Metrics:
 
  * OG: 1.045 (Target: 1.049)
- * FG: TBD
+ * FG: 1.005
  * IBUs: 14
- * ABV: TBD
+ * ABV: 5.25%
 
 Ingredients:
 
@@ -51,6 +51,8 @@ Brew Day:
 Fermentation:
 
  * Started fermentation at 68F, but basement was too cool and temp was falling.
+
+![plot](https://raw.githubusercontent.com/mikeferguson/brewing/main/brewlog/002-plot.png)
 
 Notes:
 
