@@ -8,6 +8,12 @@ Notes on beer and brewing
  * [MacGyverWeizen Take 2 (2020-08-30)](https://github.com/mikeferguson/brewing/blob/main/brewlog/002-hefeweizen.md)
  * [Funky Buddha Hefeweizen (2020-10-13)](https://github.com/mikeferguson/brewing/blob/main/brewlog/003-funky-buddha.md)
 
+# Notes
+
+ * [Hops](https://github.com/mikeferguson/brewing/blob/main/stuff/hops.md)
+ * [Yeast](https://github.com/mikeferguson/brewing/blob/main/stuff/yeast.md)
+ * [Things to Try](https://github.com/mikeferguson/brewing/blob/main/stuff/future.md))
+
 # External Links
 
  * [2015 BJCP Guidelines](https://www.bjcp.org/docs/2015_Guidelines_Beer.pdf)
