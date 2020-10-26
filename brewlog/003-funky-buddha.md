@@ -7,10 +7,10 @@ Brewed on October 13, 2020.
 
 Key Metrics:
 
- * OG: 1.049 (Target was 1.052)
- * FG: TBD (Target is 1.012)
+ * OG: 1.049 (Target: 1.052)
+ * FG: 1.004 (Target: 1.012)
  * IBUs: 12
- * ABV: TBD (Target is 5.2%)
+ * ABV: 6.02% (Target: 5.2%)
 
 Ingredients (for 3 gallons in fermenter at 65% efficiency):
 
@@ -42,6 +42,10 @@ Brew Day:
 Fermentation:
 
  * Pitched full package of Wyeast 3068, about an hour after cracking the smack pack.
+ * Finished at about 1.004
+ * Bottled 18 bottles on 10/26
+
+![plot](https://raw.githubusercontent.com/mikeferguson/brewing/main/brewlog/003-plot.png)
 
 Notes:
 
