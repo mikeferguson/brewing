@@ -10,7 +10,8 @@ Notes on beer and brewing
  * [Pink Elephant (2020-11-28)](https://github.com/mikeferguson/brewing/blob/main/brewlog/004-pink-elephant.md)
 
 # Notes
-
+ 
+ * [Anvil Foundry](https://github.com/mikeferguson/brewing/blob/main/stuff/foundry.md)
  * [Hops](https://github.com/mikeferguson/brewing/blob/main/stuff/hops.md)
  * [Yeast](https://github.com/mikeferguson/brewing/blob/main/stuff/yeast.md)
  * [Things to Try](https://github.com/mikeferguson/brewing/blob/main/stuff/future.md)
