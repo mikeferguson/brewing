@@ -13,7 +13,7 @@ Notes on beer and brewing
 
  * [Hops](https://github.com/mikeferguson/brewing/blob/main/stuff/hops.md)
  * [Yeast](https://github.com/mikeferguson/brewing/blob/main/stuff/yeast.md)
- * [Things to Try](https://github.com/mikeferguson/brewing/blob/main/stuff/future.md))
+ * [Things to Try](https://github.com/mikeferguson/brewing/blob/main/stuff/future.md)
 
 # External Links
 
