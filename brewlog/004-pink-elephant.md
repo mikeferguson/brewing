@@ -8,9 +8,9 @@ up enough space in the fridge.
 Key Metrics:
 
  * OG: 1.067 (Target: 1.072)
- * FG: TBD (Target: 1.006)
+ * FG: 1.006 (Target: 1.006)
  * IBUs: 22
- * ABV: ??%
+ * ABV: 7.97%
 
 Ingredients:
 
@@ -52,9 +52,13 @@ Brew Day:
 Fermentation:
 
  * 7 days primary fermentation at target 75-80F.
- * 14 days at 32F lagering.
+   * Stalled a few times, had to shake it up a bit.
+   * Manually controlled the temperature.
+ * 14 days at 32F lagering (in the fridge).
  * 21 days at 76F bottle condition.
  * Peak taste is at 2-3 months after bottling?
+
+![plot](https://raw.githubusercontent.com/mikeferguson/brewing/main/brewlog/004-plot.png)
 
 Notes:
 
