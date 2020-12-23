@@ -8,6 +8,7 @@ Notes on beer and brewing
  * [MacGyverWeizen Take 2 (2020-08-30)](https://github.com/mikeferguson/brewing/blob/main/brewlog/002-hefeweizen.md)
  * [Funky Buddha Hefeweizen (2020-10-13)](https://github.com/mikeferguson/brewing/blob/main/brewlog/003-funky-buddha.md)
  * [Pink Elephant (2020-11-28)](https://github.com/mikeferguson/brewing/blob/main/brewlog/004-pink-elephant.md)
+ * [Funky Buddha Hefeweizen (2020-12-20)](https://github.com/mikeferguson/brewing/blob/main/brewlog/005-funky-buddha.md)
 
 # Notes
  

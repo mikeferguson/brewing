@@ -22,6 +22,7 @@ Ingredients:
  * Ginger 2.4g, 10 minutes
  * Grains of Paradise, 2.4g, 10 minutes
  * Wyeast 1388 (64-80F) (local shop doesn't have WLP570) in 1L start
+   * Pretty sure I actually got sent 1318 - because I remember reading "London Ale III"
  * S-04 added when fermentation is 50-75% done. (or maybe skip this)
 
 Brew Day:
@@ -69,3 +70,12 @@ Notes:
    * Hops: 4.48
    * Yeast: 12.98
    * Spices: 4.50
+ * Came up short on water (only 2 gallons in fermenter, plus 0.25 gallons left in Foundry).
+   I added 4.75 gallons total, so either more boiled off or we left a bunch in the grain?
+   * Into fermenter: 2.5 gallons
+   * Left in kettle: 0.25 gallons
+   * Boiled off: 0.75 gallons (90 minute boil)
+   * Left in grain: 1 gallon
+ * Extract Efficiency:
+   * PPG = 3 gal * 40 / 8 lbs = 15
+   * Efficiency = 15 / 37 = 40.5%
