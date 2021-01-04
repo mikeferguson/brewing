@@ -8,9 +8,9 @@ Brewed on December 20, 2020.
 Key Metrics:
 
  * OG: 1.047 (Target: 1.052)
- * FG: TBD (Target: 1.012)
+ * FG: 1.004 (Target: 1.012)
  * IBUs: 12
- * ABV: TBD (Target: 5.2%)
+ * ABV: 5.64% (Target: 5.2%)
 
 Ingredients (for 3 gallons in fermenter at 65% efficiency):
 
@@ -49,9 +49,11 @@ Brew Day:
 Fermentation:
 
  * Pitched full package of Wyeast 3068.
- * Fermented at 72F for 14 days, using heating belt and Anvil temperature controller.
- * Finished at TBD
- * Bottled TBD bottles on TBD
+ * Fermented at 72F for 12 days, using heating belt and Anvil temperature controller.
+ * Finished at 1.004
+ * Bottled 64oz in uKeg and 16 bottles on 1/1/2021.
+
+![plot](https://raw.githubusercontent.com/mikeferguson/brewing/main/brewlog/005-plot.png)
 
 Notes:
 
