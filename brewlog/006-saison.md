@@ -5,9 +5,9 @@ Brewed on January 1. 2021.
 Key Metrics:
 
  * OG: 1.051 (Target: 1.049-1.053 at 60-65% efficiency)
- * FG: TBD (Target: 1.006)
+ * FG: 1.005 (Target: 1.006)
  * IBUs: 26.5
- * ABV: TBD (Target: 6.13%)
+ * ABV: 6.14% (Target: 6.13%)
 
 Ingredients:
 
@@ -45,8 +45,12 @@ Brew Day:
 
 Fermentation:
 
- * 14 days primary fermentation at 78F.
+ * 14 days primary fermentation at 78F (Planned - took over a month).
  * 21 days at 75F bottle condition.
+ * 18 bottles on 2/12:
+   * 1 carb drop: bottles G-L
+   * 2 carb drops: A-F, M, N, O, R
+   * 3 carb drops (belgian bottles): P, Q
 
 Notes:
 
