@@ -31,10 +31,10 @@ Brew Day:
    * Mash in 152F at 4:35PM
    * 152F for 60 minutes.
    * Final pH: ~5.5
-   * Gravity (per refractometer): 1.049
  * Boil
    * Boil began at 6:30PM
    * Boil ended at 7:30PM
+   * Gravity (per refractometer): 1.049
  * Chill
    * Used whirlpool arm at full pump speed (no clamp)
  * Cleanup done at 8:30PM
@@ -51,3 +51,6 @@ Notes:
 
  * 2.0 gallons in the fermenter (2.5G in Anvil after the boil)
  * Batch cost: $22.46 ($12.48 malt, $1.99 hops, $7.99 yeast)
+ * Extract Efficiency:
+   * PPG = 3.1875 gal * 38 / 6.5 = 18.6
+   * Efficiency = 18.6 / 38 = 49.0%

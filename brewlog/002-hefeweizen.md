@@ -61,3 +61,6 @@ Notes:
  * OG target was 1.049 - came up short at 1.045 (65% brewhouse efficiency).
  * Water supplements are estimated - the new scale doesn't seem to want to measure less than 1 gram.
  * Batch cost: $18.73 ($11.10 malt, $1.40 hops, $4.99 yeast)
+ * Extract Efficiency:
+   * PPG = 3.2 gal * 35 / 4.75 = 23.57
+   * Efficiency = 30.3 / 38 = 62%
