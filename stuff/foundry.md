@@ -7,6 +7,17 @@
    * Total height = 24.5 inches
    * [Manual](http://www.anvilbrewing.com/v/vspfiles/images/ANV-Foundry%20V6.1.pdf)
 
+## Statistics
+
+ * Grain retains about 0.5 quarts water per pound of grain.
+ * Transfer to fermenter leaves about 0.25 gallons in kettle.
+ * Boils off 1 gal / hour at 120v.
+ * Efficiency is terrible (even when sparging):
+   * Batch 2: 4.75 pounds of grain in 3.8 gallons water: 23.57 PPG = 62% Eff. (2.4 qt/lb)
+   * Batch 3: 6.5 pounds of grain in 4 gallons water: 18.6 PPG = 49% Eff. (1.85 qt/lb)
+   * Batch 4: 8 pounds of grain in 4.75 gallons water: 18.8 PPG = 50% Eff. (1.75 qt/lb)
+   * Thoughts: Grain Crush is the problem?
+
 ## Mashing
 
  * Without a bag, recommended crush is moderate 0.036"-0.040".
@@ -30,3 +41,10 @@ for 113F to 162F over 108 minutes.
  * Rise to 137F in 50 minutes (target: 54 minutes)
  * Rise to 150F in 82 minutes (target: 81 minutes)
  * Rise to 162F in 115 minutes (target: 108 minutes)
+
+## Recipe Checklist
+ * Water sizing:
+   * Left in kettle: 0.25 gallons.
+   * Boil off: 0.5 gal / hour at 120v.
+   * Left in grain: 1 quart / pound of grain.
+ * 

@@ -61,3 +61,7 @@ Notes:
  * Extract Efficiency:
    * PPG = 3.25 gal * 43 / 6 = 23.3
    * Efficiency = 23.3 / 38 = 61.3%
+
+Tasting Notes:
+
+ * 4/1: Bottle N (2 carb drops): Well carbonated, although nearly no head retention.
