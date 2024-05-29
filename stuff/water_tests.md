@@ -8,3 +8,4 @@ Used Lamotte kit to test well treated water (indicator is at 1078 gallons):
  * Calcium Hardness: 0
  * Magnesium Hardness: <20ppm
  * Sodium = ~100ppm
+ * pH (3/19/2024): 7.77
